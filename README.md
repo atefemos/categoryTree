@@ -1,3 +1,18 @@
+Different categories:
+
+<img width="1213" alt="Screenshot 2025-04-12 at 19 29 12" src="https://github.com/user-attachments/assets/4455034c-7ff2-4851-800f-6d0420be0629" />
+
+Ability to edit the name of each category or delete:
+
+<img width="616" alt="Screenshot 2025-04-12 at 19 34 18" src="https://github.com/user-attachments/assets/9ca00f49-76ce-46b7-8cd1-9ee3a7237396" />
+
+Move each sub-category to different parents:
+
+<img width="1189" alt="Screenshot 2025-04-12 at 19 36 32" src="https://github.com/user-attachments/assets/5760b544-01cd-44d4-9481-5b3444aadf45" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
